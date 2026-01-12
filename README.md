@@ -15,3 +15,10 @@ number = total_sum
 total_sum=0
 step+=1
 condition=number>9
+
+OUTPUT:
+Enter number: 99999999999
+Step-1 Sum: 99
+Step-2 Sum: 18
+Step-3 Sum: 9
+
